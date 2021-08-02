@@ -1,0 +1,15 @@
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\bin\Debug\net5.0\ApiCatalogoJogos.Infra.deps.json
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\bin\Debug\net5.0\ApiCatalogoJogos.Infra.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\bin\Debug\net5.0\ref\ApiCatalogoJogos.Infra.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\bin\Debug\net5.0\ApiCatalogoJogos.Infra.pdb
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\bin\Debug\net5.0\ApiCatalogoJogos.Domain.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\bin\Debug\net5.0\ApiCatalogoJogos.Domain.pdb
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.csproj.CopyComplete
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ref\ApiCatalogoJogos.Infra.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Infra\obj\Debug\net5.0\ApiCatalogoJogos.Infra.pdb

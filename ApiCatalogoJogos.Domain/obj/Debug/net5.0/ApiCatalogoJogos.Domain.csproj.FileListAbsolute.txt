@@ -1,0 +1,12 @@
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\bin\Debug\net5.0\ApiCatalogoJogos.Domain.deps.json
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\bin\Debug\net5.0\ApiCatalogoJogos.Domain.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\bin\Debug\net5.0\ref\ApiCatalogoJogos.Domain.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\bin\Debug\net5.0\ApiCatalogoJogos.Domain.pdb
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ApiCatalogoJogos.Domain.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ApiCatalogoJogos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ApiCatalogoJogos.Domain.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ApiCatalogoJogos.Domain.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ApiCatalogoJogos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ApiCatalogoJogos.Domain.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ref\ApiCatalogoJogos.Domain.dll
+C:\Users\eduar\OneDrive\Eduardo\Programação\Aulas de Programação\Digital Innovation One\everis\Projeto 02\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net5.0\ApiCatalogoJogos.Domain.pdb
